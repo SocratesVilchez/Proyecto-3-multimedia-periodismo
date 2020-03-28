@@ -1,0 +1,16 @@
+Facebook
+
+<i class="fa fa-facebook"></i>
+<i class="fa fa-facebook-square"></i>
+
+twitter
+<i class="fa fa-twitter"></i>
+<i class="fa fa-twitter-square"></i>
+
+instagram
+
+<i class="fa fa-instagram"></i>
+
+flecha arriba
+
+<i class="fa fa-angle-double-up"></i>
